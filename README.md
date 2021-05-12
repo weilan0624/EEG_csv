@@ -1,2 +1,5 @@
-# Epi-AI
-Here is some supplmental information about the Epi-AI
+# EEG_csv
+Here are some supplmental files about the Webserver
+
+We provide a ipynb file, which contains some function to convert the edf format, mat format, pickle format, txt format to csv file.
+If you want to use this ipynb file, you need to download the Jupyter notebook (https://jupyter.org/) or Anaconda 3 (https://www.anaconda.com/)
